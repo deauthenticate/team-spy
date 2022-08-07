@@ -2692,4 +2692,4 @@ async def tesingig(ctx, arg):
   await ctx.reply(mlist, allowed_mentions = discord.AllowedMentions.none)
   mlist = ""
     	
-client.run(tkn, reconnect = True)
+client.run('OTQ0ODg1MDI1OTY1NDg2MTQw.GC85k2.kPtM5vPA48Pmvku2OZxzRw8-6XAdNrGjyDSLrs', reconnect = True)
